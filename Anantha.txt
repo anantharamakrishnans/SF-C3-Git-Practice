@@ -1,1 +1,5 @@
 Learning git from awsome W3school Bootcamp
+
+function printMe(){
+        console.log("I am a reference example");
+}
